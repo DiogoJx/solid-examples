@@ -21,5 +21,7 @@ class Program{
         Console.ReadKey();
         Console.WriteLine("");
 
+        // Note que aqui estamos podendo utilizar obejtos das classes derivadas como objetos da classe pai sem modificação no comportamento.
+
     }
 }
